@@ -28,6 +28,10 @@ In this project there is an implementation of Laravel shopping cart api end poin
 ```
 php artisan migrate
 ```
+- Generate passport keys. 
+```
+php artisan passport:install --force
+```
 - Run the project.
 ```
 php artisan serve
