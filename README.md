@@ -34,6 +34,9 @@ php artisan serve
 ```
 - This is it, you can now open postman and start testing api endpoints.
 
+## Link to api documentation
+- https://documenter.getpostman.com/view/12689694/UzBvH4E5
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
