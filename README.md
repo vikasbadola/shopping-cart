@@ -19,7 +19,7 @@ In this project there is an implementation of Laravel shopping cart api end poin
 ## Setup
 
 - Clone or download the code.
-- cd to your downloaded code ```cd shopping-cart```
+- cd to your downloaded code ```cd vikas_case_study```
 - run ```composer install```
 - rename .env.example to .env
 - run ```php artisan key:generate```
