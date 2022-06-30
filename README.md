@@ -9,7 +9,7 @@
 
 ## Laravel Framework 9.18.0 - Shopping Cart
 
-In this project there ia an implementation of Laravel shopping cart api end points.
+In this project there is an implementation of Laravel shopping cart api end points.
 
 ## Requirements
 
