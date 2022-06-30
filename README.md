@@ -41,6 +41,11 @@ php artisan serve
 ## Link to api documentation
 - https://documenter.getpostman.com/view/12689694/UzBvH4E5
 
+- Running test cases. 
+```
+.\vendor\bin\phpunit (windows machine)
+```
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
